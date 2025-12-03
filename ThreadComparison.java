@@ -1,5 +1,3 @@
-package Week_08;
-
 class Comparison {
 
     static int counter = 0;
@@ -58,4 +56,5 @@ class SynchronizedThread extends Thread {
             }
         }
     }
+
 }
