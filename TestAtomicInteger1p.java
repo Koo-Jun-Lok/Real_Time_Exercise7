@@ -1,5 +1,3 @@
-package Week_08;
-
 import java.util.concurrent.atomic.AtomicInteger; // New modification
 
 class TestAtomicInteger1p {
@@ -39,4 +37,5 @@ class CountProblem implements Runnable {
             e.printStackTrace();
         }
     }
+
 }
